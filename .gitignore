@@ -1,6 +1,6 @@
 tmp/
 .DS_Store
 index.html_old
-/img/Trumbs.db
+img/Trumbs.db
 Trumbs.db
-/img/NeuroStartUp.png*backup
+img/NeuroStartUp.png_backup
